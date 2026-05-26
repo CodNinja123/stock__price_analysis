@@ -1,6 +1,6 @@
 # Stock Price Time-Series Analysis
 
-This repository contains my solution for the [Stock Price Analysis](https://roadmap.sh) project from roadmap.sh.
+This repository contains my solution for the [Stock Price Analysis]https://roadmap.sh/projects/stock-price-time-series
 
 ## Project Deliverables
 * Downloaded historical data for Apple (AAPL) and Microsoft (MSFT) via `yfinance`
